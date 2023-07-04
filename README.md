@@ -9,7 +9,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/shehrozchishty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shehrozchishty" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21763365" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21763365" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@LearnWithMe2047" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="learnwithme2047" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
